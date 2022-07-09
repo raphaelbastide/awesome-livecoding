@@ -295,6 +295,7 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 - [diatonic](https://github.com/pd3v/diatonic) - Diatonic transforms for music making.
 - [disclojure](https://github.com/pjagielski/disclojure) - A live coding environment for Overtone and Leipzig.
 - [EspGrid](https://github.com/d0kt0r0/EspGrid) - Synchronization and sharing for network music.
+- [Été](https://raphaelbastide.com/ete/) - Browser app allowing to combine live algorithmic composition with spontaneous percussive expression with the keyboard.
 - [Extramuros](https://github.com/d0kt0r0/extramuros) - Language-neutral shared-buffer networked live coding system.
 - [Flok](https://munshkr.github.io/flok) - Web-based P2P collaborative editor for live coding music and graphics.
 - [Fragment](https://www.fsynth.com) - Collaborative live GLSL coding environment, additive/spectral/granular synthesizer.
